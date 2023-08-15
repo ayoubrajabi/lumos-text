@@ -1,1 +1,1 @@
-export 'package:lumos_text/lumos_text.dart';
+export 'src/lumos_text.dart';
