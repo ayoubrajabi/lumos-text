@@ -1,7 +1,1 @@
-library lumos_text;
-
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'package:lumos_text/lumos_text.dart';
